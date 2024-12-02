@@ -1,4 +1,4 @@
-# adventofcode23
+# Advent of Code 2023
 My solutions to the problems posted on the [official website](https://adventofcode.com/2023/).
 
 ## Languages
